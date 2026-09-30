@@ -13,7 +13,7 @@
 🎓 Студент **IT Хаба**, 2-й курс  
 💻 Изучаю **Python** и **C#**  
 🎮 Пишу рогалики и учусь делать крутые вещи  
-🔗 Мой проект: [Roguelike](https://github.com/wtoni0543-droid/Roguelike)
+🔗🎮 Мои проекты: [Roguelike](https://github.com/noizon/Roguelike) • [Red Ball Adventure](https://github.com/noizon/RedBall)
 
 ---
 
