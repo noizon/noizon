@@ -13,7 +13,36 @@
 🎓 Студент **IT Хаба**, 2-й курс  
 💻 Изучаю **Python** и **C#**  
 🎮 Пишу рогалики и учусь делать крутые вещи  
-🔗 Мои проекты: [Roguelike](https://github.com/noizon/Roguelike) • [Red Ball Adventure](https://github.com/noizon/RedBall) • [Aura-flask] (https://github.com/noizon/Aura-flask)
+### 🚀 Мои проекты
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/noizon/Aura-flask">
+        <img src="https://img.shields.io/badge/🌐_Aura_Social-Flask-6366f1?style=for-the-badge" />
+      </a>
+      <p><b>Мини-соцсеть на Flask</b></p>
+      <p>Посты, чаты, реакции, админ-панель, CSRF-защита</p>
+      <p><code>Python</code> <code>Flask</code> <code>SQLite</code></p>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/noizon/Roguelike">
+        <img src="https://img.shields.io/badge/🎮_Roguelike-Python-c084fc?style=for-the-badge" />
+      </a>
+      <p><b>Рогалик на Python</b></p>
+      <p>Процедурная генерация, бои, инвентарь</p>
+      <p><code>Python</code> <code>PyGame</code></p>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/noizon/RedBall">
+        <img src="https://img.shields.io/badge/🔴_Red_Ball-Pygame-e879f9?style=for-the-badge" />
+      </a>
+      <p><b>2D платформер</b></p>
+      <p>На PyGame с веб-сервером на Flask</p>
+      <p><code>Python</code> <code>PyGame</code> <code>Flask</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
