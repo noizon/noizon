@@ -54,14 +54,12 @@
 
 ---
 
-### 📊 Статистика
+## 📊 Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wtoni0543-droid&show_icons=true&theme=radical&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtoni0543-droid&layout=compact&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noizon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1419&title_color=c084fc&icon_color=e879f9&text_color=e7e9ea" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noizon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f1419&title_color=c084fc&text_color=e7e9ea" height="180" />
 </p>
-
----
 
 ### 📩 Связь
 
