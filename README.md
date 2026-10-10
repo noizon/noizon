@@ -50,7 +50,7 @@
       </a>
       <p><b>Симулятор жизни</b></p>
       <p>От бомжа до миллионера: события, магазин, банк, семья</p>
-      <p><code>C#</code> <code>WinForms</code> <code>.NET 8</code></p>
+      <p><code>C#</code> <code>WinForms</code> <code>.NET 9</code></p>
     </td>
     <td width="33%" align="center"></td>
     <td width="33%" align="center"></td>
